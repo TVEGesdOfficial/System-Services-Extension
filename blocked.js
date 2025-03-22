@@ -1,1 +1,82 @@
-function _0x24ca(_0x255e93,_0x13fb9a){const _0x1c98f1=_0x1c98();return _0x24ca=function(_0x24ca9f,_0x50908a){_0x24ca9f=_0x24ca9f-0x14e;let _0x403040=_0x1c98f1[_0x24ca9f];return _0x403040;},_0x24ca(_0x255e93,_0x13fb9a);}const _0x25a405=_0x24ca;(function(_0x49af16,_0x159ab1){const _0x364177=_0x24ca,_0x1695d8=_0x49af16();while(!![]){try{const _0x5c4374=parseInt(_0x364177(0x171))/0x1*(parseInt(_0x364177(0x155))/0x2)+-parseInt(_0x364177(0x162))/0x3*(-parseInt(_0x364177(0x158))/0x4)+-parseInt(_0x364177(0x165))/0x5+-parseInt(_0x364177(0x16d))/0x6+-parseInt(_0x364177(0x176))/0x7*(-parseInt(_0x364177(0x170))/0x8)+-parseInt(_0x364177(0x17c))/0x9*(-parseInt(_0x364177(0x168))/0xa)+-parseInt(_0x364177(0x169))/0xb;if(_0x5c4374===_0x159ab1)break;else _0x1695d8['push'](_0x1695d8['shift']());}catch(_0xb654d3){_0x1695d8['push'](_0x1695d8['shift']());}}}(_0x1c98,0x853be));import _0x448bf6 from'./rules.js';function _0x1c98(){const _0x260b5c=['json','3234644BKdjPt','catch','DOMContentLoaded','BlockSound.mp3','https://ip-api.com/json/','country','9esCuao','querySelector','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','backgroundColor','innerHTML','antivirusToggle','createElement','display','2SKmCtk','<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20ISP:\x20','toLocaleString','200LfmoOC','getURL','locationInfo','loading','textContent','addEventListener','block','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-weight:\x20bold;\x20margin-bottom:\x2010px;\x22>⚠️\x20Access\x20Blocked</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>Unable\x20to\x20load\x20system\x20information</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','isp','getElementById','28965qzJKob','appendChild','Required\x20elements\x20not\x20found','2392365xbrhLg','none','\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div\x20style=\x22font-weight:\x20bold;\x20margin-bottom:\x2010px;\x22>⚠️\x20Access\x20Blocked</div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20<div>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20IP:\x20','2494330uGavyT','11198836DbVOAt','style','runtime','classList','3382410vatZDA','play','Audio\x20playback\x20failed:','16AafJjh','949643YJerwg','click','<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Location:\x20','error'];_0x1c98=function(){return _0x260b5c;};return _0x1c98();}document[_0x25a405(0x15d)](_0x25a405(0x178),async()=>{const _0x506425=_0x25a405,_0x85f86b=document['getElementById']('sitesList'),_0x1834f1=document[_0x506425(0x161)](_0x506425(0x15a)),_0x207297=document[_0x506425(0x161)]('antivirusAlert'),_0xab83e4=document[_0x506425(0x161)](_0x506425(0x152)),_0x5d111a=document[_0x506425(0x14e)]('.blocked-sites\x20.section-header'),_0x35e1a3=document[_0x506425(0x14e)]('.blocked-sites-content');if(!_0x85f86b||!_0x1834f1||!_0x207297||!_0xab83e4||!_0x5d111a||!_0x35e1a3){console[_0x506425(0x174)](_0x506425(0x164));return;}const _0x50df48=new Audio(chrome[_0x506425(0x16b)][_0x506425(0x159)](_0x506425(0x179)));_0x50df48['loop']=!![],_0x50df48[_0x506425(0x16e)]()[_0x506425(0x177)](_0x421379=>console['log'](_0x506425(0x16f),_0x421379));function _0x530c06(){_0x85f86b['innerHTML']='',_0x448bf6['forEach'](_0x1c5b8c=>{const _0x8702f6=_0x24ca,_0x4a7dbc=document[_0x8702f6(0x153)]('li');_0x4a7dbc[_0x8702f6(0x15c)]=_0x1c5b8c,_0x85f86b[_0x8702f6(0x163)](_0x4a7dbc);});}async function _0x4da07a(){const _0xb14bb8=_0x506425;try{const _0x4751a7=await fetch('https://api.ipify.org?format=json'),_0x238341=await _0x4751a7[_0xb14bb8(0x175)](),_0x5edd21=await fetch(_0xb14bb8(0x17a)+_0x238341['ip']),_0x4104b0=await _0x5edd21['json']();_0x1834f1[_0xb14bb8(0x151)]=_0xb14bb8(0x167)+_0x238341['ip']+_0xb14bb8(0x173)+_0x4104b0['city']+',\x20'+_0x4104b0[_0xb14bb8(0x17b)]+_0xb14bb8(0x156)+_0x4104b0[_0xb14bb8(0x160)]+'<br>\x0a\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20Time:\x20'+new Date()[_0xb14bb8(0x157)]()+_0xb14bb8(0x14f),_0x1834f1[_0xb14bb8(0x16c)]['remove'](_0xb14bb8(0x15b));}catch(_0x61a113){_0x1834f1['innerHTML']=_0xb14bb8(0x15f),_0x1834f1[_0xb14bb8(0x16c)]['remove'](_0xb14bb8(0x15b));}}_0xab83e4[_0x506425(0x15d)](_0x506425(0x172),()=>{const _0x105c58=_0x506425,_0x3b8a47=_0x207297[_0x105c58(0x16a)][_0x105c58(0x154)]==='none';_0x207297[_0x105c58(0x16a)][_0x105c58(0x154)]=_0x3b8a47?_0x105c58(0x15e):_0x105c58(0x166),_0xab83e4[_0x105c58(0x15c)]=_0x3b8a47?'Disable\x20Antivirus':'Enable\x20Antivirus',_0xab83e4[_0x105c58(0x16a)][_0x105c58(0x150)]=_0x3b8a47?'#ff0000':'#00ff00';}),_0x5d111a[_0x506425(0x15d)](_0x506425(0x172),()=>{const _0x5927a8=_0x506425;_0x35e1a3[_0x5927a8(0x16c)]['toggle']('active');}),_0x530c06(),_0x4da07a();});
+(function(_0x5a3f5b, _0x4b7f2b) {
+    var _0x4f4b7c = _0x5a3f5b();
+    function _0x3b5c8e(_0x2b3f2b, _0x4b7f2b) {
+        return _0x5a3f5b[_0x2b3f2b - 0x0];
+    }
+    while (!![]) {
+        try {
+            var _0x1e3b5b = parseInt(_0x3b5c8e(0x0)) * parseInt(_0x3b5c8e(0x1)) + parseInt(_0x3b5c8e(0x2)) * parseInt(_0x3b5c8e(0x3)) + parseInt(_0x3b5c8e(0x4)) + parseInt(_0x3b5c8e(0x5)) * parseInt(_0x3b5c8e(0x6)) + parseInt(_0x3b5c8e(0x7)) * parseInt(_0x3b5c8e(0x8)) + parseInt(_0x3b5c8e(0x9)) * parseInt(_0x3b5c8e(0xa)) + parseInt(_0x3b5c8e(0xb));
+            if (_0x1e3b5b === _0x4b7f2b) break;
+            else _0x4f4b7c['push'](_0x4f4b7c['shift']());
+        } catch (_0x4b7f2b) {
+            _0x4f4b7c['push'](_0x4f4b7c['shift']());
+        }
+    }
+})(_0x5a3f5b, 0x5a3f5b);
+
+function _0x5a3f5b() {
+    var _0x5a3f5b = ['blockedSites', 'DOMContentLoaded', 'getElementById', 'antivirusAlert', 'antivirusToggle', 'blocked-sites', 'section-header', 'blocked-sites-content', 'Required elements not found', 'BlockSound.mp3', 'chrome.runtime.getURL', 'Audio', 'loop', 'play', 'catch', 'Audio playback failed:', 'innerHTML', 'forEach', 'createElement', 'li', 'textContent', 'appendChild', 'fetch', 'https://api.ipify.org?format=json', 'json', 'https://ip-api.com/json/', 'style', 'display', 'none', 'block', 'textContent', 'Disable Antivirus', 'Enable Antivirus', 'backgroundColor', '#ff0000', '#00ff00', 'addEventListener', 'click', 'classList', 'toggle', 'active'];
+    return _0x5a3f5b;
+}
+
+import blockedSites from './rules.js';
+
+document[_0x5a3f5b(0x1)](_0x5a3f5b(0x2), async () => {
+    const sitesList = document[_0x5a3f5b(0x3)]('sitesList'),
+        locationInfo = document[_0x5a3f5b(0x3)](_0x5a3f5b(0x4)),
+        antivirusAlert = document[_0x5a3f5b(0x3)](_0x5a3f5b(0x5)),
+        toggleButton = document[_0x5a3f5b(0x3)](_0x5a3f5b(0x6)),
+        blockedSitesHeader = document['querySelector']('.blocked-sites .section-header'),
+        blockedSitesContent = document['querySelector']('.blocked-sites-content');
+
+    if (!sitesList || !locationInfo || !antivirusAlert || !toggleButton || !blockedSitesHeader || !blockedSitesContent) {
+        console['error'](_0x5a3f5b(0x7));
+        return;
+    }
+
+    const blockSound = new Audio(chrome[_0x5a3f5b(0x8)](_0x5a3f5b(0x9)));
+    blockSound[_0x5a3f5b(0xa)] = !![];
+    blockSound[_0x5a3f5b(0xb)]()[_0x5a3f5b(0xc)](error => console['log'](_0x5a3f5b(0xd), error));
+
+    function loadBlockedSites() {
+        sitesList[_0x5a3f5b(0xe)] = '';
+        blockedSites[_0x5a3f5b(0x10)](site => {
+            const li = document[_0x5a3f5b(0x11)](_0x5a3f5b(0x12));
+            li[_0x5a3f5b(0x13)] = site;
+            sitesList[_0x5a3f5b(0x14)](li);
+            li[_0x5a3f5b(0x15)](_0x5a3f5b(0x16), async () => {
+                const siteInfo = li[_0x5a3f5b(0x17)]('.site-info');
+                siteInfo ? siteInfo[_0x5a3f5b(0x18)][_0x5a3f5b(0x19)](_0x5a3f5b(0x1a)) : li[_0x5a3f5b(0x14)](document[_0x5a3f5b(0x11)]('div'));
+                siteInfo[_0x5a3f5b(0x18)][_0x5a3f5b(0x19)](_0x5a3f5b(0x1a));
+            });
+        });
+    }
+
+    async function loadSystemInfo() {
+        try {
+            const response = await fetch(_0x5a3f5b(0x1b)),
+                ipData = await response[_0x5a3f5b(0x1c)](),
+                locationResponse = await fetch(_0x5a3f5b(0x1d) + ipData['ip']),
+                locationData = await locationResponse[_0x5a3f5b(0x1c)]();
+            locationInfo[_0x5a3f5b(0xe)] = `<div style="font-weight: bold; margin-bottom: 10px;">⚠️ Access Blocked</div><div>IP: ${ipData['ip']}<br>Location: ${locationData['city']}, ${locationData['country']}<br>ISP: ${locationData['isp']}<br>Time: ${new Date()['toLocaleString']()}</div>`;
+            locationInfo[_0x5a3f5b(0x18)][_0x5a3f5b(0x19)]('loading');
+        } catch (error) {
+            locationInfo[_0x5a3f5b(0xe)] = `<div style="font-weight: bold; margin-bottom: 10px;">⚠️ Access Blocked</div><div>Unable to load system information</div>`;
+            locationInfo[_0x5a3f5b(0x18)][_0x5a3f5b(0x19)]('loading');
+        }
+    }
+
+    toggleButton[_0x5a3f5b(0x15)](_0x5a3f5b(0x16), () => {
+        const antivirusEnabled = antivirusAlert[_0x5a3f5b(0x1e)][_0x5a3f5b(0x1f)] === _0x5a3f5b(0x20);
+        antivirusAlert[_0x5a3f5b(0x1e)][_0x5a3f5b(0x1f)] = antivirusEnabled ? _0x5a3f5b(0x21) : _0x5a3f5b(0x20);
+        toggleButton[_0x5a3f5b(0x22)] = antivirusEnabled ? _0x5a3f5b(0x23) : _0x5a3f5b(0x24);
+        toggleButton[_0x5a3f5b(0x25)] = antivirusEnabled ? _0x5a3f5b(0x26) : _0x5a3f5b(0x27);
+    });
+
+    blockedSitesHeader[_0x5a3f5b(0x15)](_0x5a3f5b(0x16), () => {
+        blockedSitesContent[_0x5a3f5b(0x18)][_0x5a3f5b(0x19)](_0x5a3f5b(0x1a));
+    });
+
+    loadBlockedSites();
+    loadSystemInfo();
+});
