@@ -1,1 +1,19 @@
-/* OBFUSCATED BY CSSOBFUSCATOR.COM at 2025/03/22 18:41:21 */
+body {
+  width: 300px;
+  padding: 10px;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  text-align: center;
+}
+
+h1 {
+  color: #333;
+  font-size: 18px;
+  margin-bottom: 15px;
+}
+
+#content {
+  margin-top: 10px;
+}
